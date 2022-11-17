@@ -1,0 +1,12 @@
+{
+  "name": "astroturf-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/astroturfcss/astroturf-loader.git",
+  "author": "Jason Quense <monastic.panic@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "astroturf": "^1.1.0",
+    "webpack": "^5.0.0"
+  }
+}
